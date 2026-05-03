@@ -1,0 +1,13 @@
+logs/honeypot.json
+logs/*.log
+logs/*.csv
+logs/internal_alerts.log
+logs/threat_report.txt
+logs/.seen_sessions
+logs/.host_key
+__pycache__/
+*.py[cod]
+.env
+venv/
+.DS_Store
+!logs/.gitkeep
