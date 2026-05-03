@@ -38,7 +38,7 @@ Attacker (Internet)
 ## Quick Start
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/honeypot-project.git
+git clone https://git clone https://github.com/pruthviraj-oo7/honeypot-project.git
 cd honeypot-project
 sudo bash setup.sh
 ```
